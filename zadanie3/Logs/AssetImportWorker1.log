@@ -876,3 +876,5 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/cubemov.cs: f68f8cfe792a0fc5168de5fdcdc0df71 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:scripting/precompiled-assembly-types:Assembly-CSharp: 31d5c7063afb888149e3ab5376557fb6 -> 
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
