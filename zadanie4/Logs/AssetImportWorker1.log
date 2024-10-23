@@ -759,3 +759,5 @@ Start importing Assets/New Material 1.mat using Guid(3383f32c91d52b87e800038b809
  -> (artifact id: 'ffb97252b18105078a6b1f4739979817') in 0.291680 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
