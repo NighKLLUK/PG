@@ -561,3 +561,5 @@ Start importing Assets/scripts/NewBehaviourScript.cs using Guid(7ad1d52409f4f121
  -> (artifact id: '2441ff6df0a707e1600f8ad68d99520b') in 0.001672 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
